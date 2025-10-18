@@ -55,4 +55,7 @@ for i in range(1,factNumber + 1):
     result=result*i
 print(result)
 
+#problem 6
+ 
+
 
