@@ -1,3 +1,4 @@
+
 # # just starting 
 # a=10
 # b=10
@@ -25,4 +26,26 @@ else:
 n=int(input("Enter the any number: "))
 for number in range(1,n+1):
     print(number)
+
+
+#proble 3
+number = int(input("Enter any number: "))
+
+if number > 0:
+    print("The number is Positive")
+elif number < 0:
+    print("The number is Negative")
+else:
+    print("The number is Zero")
+
+#problem 4
+ 
+  #problem 4
+ 
+num1 = int(1)
+num2 = int(2)
+num3 = int(3)
+
+print(num1 + num2 + num3)
+
 
