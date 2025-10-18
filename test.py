@@ -48,4 +48,11 @@ num3 = int(3)
 
 print(num1 + num2 + num3)
 
+#problem 5 
+factNumber=int(input("Enter a number: "))
+result=1
+for i in range(1,factNumber + 1):
+    result=result*i
+print(result)
+
 
