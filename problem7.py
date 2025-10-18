@@ -8,8 +8,4 @@ while b != 0:
 
 print("GCD is:", a)
 
-s1=10
-s2=20
-s1 , s2 =s2 ,s1
-print(s1)
-print(s2)
+
